@@ -1,6 +1,10 @@
+# ArgoCD Workload Template
+
+This documentation describes the details and parameters required to create an ArgoCD Workload within the Witboost platform.
+
 ## Prerequisites
 
-A Data Product should already exist in order to attach the new components to it.
+A Data Product should already exist to attach the new components to it.
 
 ## Component Metadata
 
